@@ -10,11 +10,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Far Objects
   - Water
   - UI
-  - 
-  - 
+  - Near Objects
+  - Mesh
   - 
   - 
   - 
